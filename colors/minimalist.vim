@@ -119,6 +119,24 @@ hi cssURL               ctermfg=255     ctermbg=NONE    cterm=NONE      guifg=#E
 hi cssValueLength       ctermfg=173     ctermbg=NONE    cterm=NONE      guifg=#D7875F       guibg=NONE      gui=NONE
 hi cssValueNumber       ctermfg=173     ctermbg=NONE    cterm=NONE      guifg=#D7875F       guibg=NONE      gui=NONE
 hi cssVendor            ctermfg=140     ctermbg=NONE    cterm=NONE      guifg=#AF87D7       guibg=NONE      gui=NONE
+hi elixirAlias          ctermfg=74      ctermbg=NONE    cterm=NONE      guifg=#5FAFD7       guibg=NONE      gui=NONE " Elixir
+hi elixirAtom           ctermfg=173     ctermbg=NONE    cterm=NONE      guifg=#AFD787       guibg=NONE      gui=NONE
+hi elixirVariable       ctermfg=173     ctermbg=NONE    cterm=NONE      guifg=#D7875F       guibg=NONE      gui=NONE
+hi elixirUnusedVariable ctermfg=196     ctermbg=NONE    cterm=NONE      guifg=#EEEEEE       guibg=#D75F5F   gui=NONE
+hi elixirInclude        ctermfg=74      ctermbg=NONE    cterm=NONE      guifg=#5FAFD7       guibg=NONE      gui=NONE
+hi elixirStringDelimiter ctermfg=117    ctermbg=NONE    cterm=NONE      guifg=#87D7FF       guibg=NONE      gui=NONE
+hi elixirKeyword        ctermfg=167     ctermbg=NONE    cterm=NONE      guifg=#AFD787       guibg=NONE      gui=NONE
+hi elixirFunctionDeclaration ctermfg=74 ctermbg=NONE    cterm=NONE      guifg=#5FAFD7       guibg=NONE      gui=NONE
+hi elixirBlockDefinition ctermfg=140    ctermbg=NONE    cterm=NONE      guifg=#D7875F       guibg=NONE      gui=NONE 
+hi elixirDefine         ctermfg=140     ctermbg=NONE    cterm=NONE      guifg=#AF87D7       guibg=NONE      gui=NONE
+hi elixirStructDefine   ctermfg=140     ctermbg=NONE    cterm=NONE      guifg=#AF87D7       guibg=NONE      gui=NONE
+hi elixirPrivateDefine  ctermfg=140     ctermbg=NONE    cterm=NONE      guifg=#AF87D7       guibg=NONE      gui=NONE
+hi elixirModuleDefine   ctermfg=140     ctermbg=NONE    cterm=NONE      guifg=#AF87D7       guibg=NONE      gui=NONE
+hi elixirProtocolDefine ctermfg=140     ctermbg=NONE    cterm=NONE      guifg=#AF87D7       guibg=NONE      gui=NONE
+hi elixirImplDefine     ctermfg=140     ctermbg=NONE    cterm=NONE      guifg=#AF87D7       guibg=NONE      gui=NONE
+hi elixirModuleDeclaration ctermfg=74   ctermbg=NONE    cterm=NONE      guifg=#5FAFD7       guibg=NONE      gui=NONE
+hi elixirDocString      ctermfg=238     ctermbg=NONE    cterm=NONE      guifg=#444444       guibg=NONE      gui=NONE
+hi elixirDocTest        ctermfg=238     ctermbg=NONE    cterm=NONE      guifg=#444444       guibg=NONE      gui=NONE
 hi htmlArg              ctermfg=215     ctermbg=NONE    cterm=NONE      guifg=#FFAF5F       guibg=NONE      gui=NONE " HTML/HTML5
 hi htmlEndTag           ctermfg=74      ctermbg=NONE    cterm=NONE      guifg=#5FAFD7       guibg=NONE      gui=NONE
 hi htmlScriptTag        ctermfg=74      ctermbg=NONE    cterm=NONE      guifg=#5FAFD7       guibg=NONE      gui=NONE
